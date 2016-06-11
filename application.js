@@ -12,9 +12,7 @@ url('../New/5.jpg'),
 url('../New/6.jpg'),
 url('../New/7.jpg'),
 url('../New/8.jpg'),
-url('../New/9.jpg'),
-url('../New/10.jpg'),
-url('../New/11.jpg'),
+url('../New/1.jpg')
 
     ];
     for(var i = 0; i < imageList.length; i++ ) 
